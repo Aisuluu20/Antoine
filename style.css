@@ -1,0 +1,45 @@
+* {
+  margin: 10px;
+  padding: 0;
+  /* font-family: ; */
+}
+h2 {
+  color: red;
+  /* font-family: sans-serif; */
+  font-size: 30px;
+  font-weight: 600;
+  height: 80px;
+  letter-spacing: 1px;
+  background: rgb(238, 238, 197);
+}
+h3 {
+  color: black;
+  font-size: 20px;
+  height: 50px;
+}
+h4 {
+  color: black;
+  height: 70px;
+  /* font-family: sans-serif; */
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  background: rgb(238, 238, 197);
+}
+body {
+  background: rgb(238, 238, 197);
+}
+h4 {
+  color: black;
+  font-weight: 100px;
+  font-size: 40px;
+  letter-spacing: 1px;
+  font-size: 30px;
+  font-style: normal;
+}
+h1 {
+  color: red;
+}
+p {
+  color: rgba(0, 0, 0, 0.904);
+}
